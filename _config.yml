@@ -21,10 +21,10 @@
 title: George Nyakundi
 email: gee.nyakundi@gmail.com
 description: >-
-  Your go-to space for honest reflections, review and actionable advice from a fellow developer.
+  Honest reflections from a fellow engineer.
 baseurl: "" 
 url: "htts://georgenyakundi.com"
-twitter_username: jekyllrb
+linkedin_username: georgenyakundi
 github_username:  devagani
 
 # Build settings
