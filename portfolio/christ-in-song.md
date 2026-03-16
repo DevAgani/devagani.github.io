@@ -3,6 +3,7 @@ layout: page
 title: Christ In Song Multi-Language
 permalink: /portfolio/christ-in-song/
 category: tech
+portfolio_project: true
 sort_order: 1
 featured: true
 thumbnail: /assets/christ-in-song-screenshot.png

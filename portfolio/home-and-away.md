@@ -3,6 +3,7 @@ layout: page
 title: Home & Away
 permalink: /portfolio/home-and-away/
 category: music
+portfolio_project: true
 sort_order: 2
 featured: true
 excerpt: EP — 4 songs. Intro, Kafara (feat. Rabuko), Trust, Zidi (feat. Martha Onsando & Nahash Mwathi).

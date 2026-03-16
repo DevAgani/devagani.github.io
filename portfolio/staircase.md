@@ -3,6 +3,7 @@ layout: page
 title: Staircase
 permalink: /portfolio/staircase/
 category: music
+portfolio_project: true
 sort_order: 3
 featured: true
 excerpt: EP with Nahash Mwathi — 5 songs. Staircase, Intro (Proverbs 3:5-6), Staircase Playback, Outro (Polepole).

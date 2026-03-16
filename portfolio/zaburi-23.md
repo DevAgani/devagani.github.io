@@ -3,6 +3,7 @@ layout: page
 title: Zaburi 23
 permalink: /portfolio/zaburi-23/
 category: music
+portfolio_project: true
 sort_order: 4
 excerpt: Single with Ob Mwendi — 2025. Swahili worship.
 meta: Single · 2025 · Ob Mwendi & Agani Nyakundi

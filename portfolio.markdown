@@ -14,7 +14,7 @@ description: "Portfolio of George Nyakundi — tech projects and music releases.
 <p class="portfolio-intro">Tech and music projects.</p>
 
 <div class="portfolio-grid">
-  {% assign portfolio_pages = site.pages | where_exp: "item", "item.url contains '/portfolio/' and item.url != '/portfolio/'" | sort: "sort_order" %}
+  {% assign portfolio_pages = site.pages | where: "portfolio_project", true | sort: "sort_order" %}
   {% for project in portfolio_pages %}
   <a href="{{ project.url | relative_url }}" class="portfolio-card portfolio-card-{{ project.category | default: 'tech' }}" data-category="{{ project.category | default: 'tech' }}">
     <div class="portfolio-card-image">

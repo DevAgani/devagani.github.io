@@ -3,6 +3,7 @@ layout: page
 title: Tulia
 permalink: /portfolio/tulia/
 category: music
+portfolio_project: true
 sort_order: 5
 excerpt: Single — 2024. Agani Nyakundi.
 meta: Single · 2024 · Agani Nyakundi
