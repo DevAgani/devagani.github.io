@@ -15,7 +15,7 @@ description: "Senior iOS Engineer at eBay. 10+ years building fintech & mobile p
 <section class="home-featured">
   <h2 class="home-section-heading">Featured work</h2>
   <div class="home-project-grid">
-    {% assign portfolio_pages = site.pages | where_exp: "item", "item.url contains '/portfolio/' and item.url != '/portfolio/' and item.featured == true" | sort: "sort_order" %}
+    {% assign portfolio_pages = site.pages | where: "featured", true | sort: "sort_order" %}
     {% for project in portfolio_pages %}
     <a href="{{ project.url | relative_url }}" class="home-project-card">
       <div class="home-project-image">
