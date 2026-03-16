@@ -1,9 +1,15 @@
 title: George Nyakundi
+author:
+  name: George Nyakundi
+  url: https://georgenyakundi.com
 email: gee.nyakundi@gmail.com
 description: >-
-  Honest reflections from a fellow engineer.
-baseurl: "" 
-url: "htts://georgenyakundi.com"
+  Senior iOS Engineer | 10+ years building fintech & mobile products. Open to collaboration and opportunities.
+baseurl: ""
+url: "https://georgenyakundi.com"
+logo: "/assets/christ-in-song-screenshot.png"
+twitter:
+  username: georgenyakundi
 linkedin_username: georgenyakundi
 github_username:  devagani
 
@@ -11,6 +17,14 @@ github_username:  devagani
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - about.markdown
+  - portfolio.markdown
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

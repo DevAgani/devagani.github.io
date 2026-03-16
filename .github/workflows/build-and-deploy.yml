@@ -1,7 +1,7 @@
-name: Build and Deply Personal site
+name: Build and Deploy Personal site
 on:
- push:
-   branches: ["main"]
+  push:
+    branches: ["main"]
 permissions:
   contents: read
   pages: write
