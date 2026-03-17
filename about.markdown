@@ -7,7 +7,7 @@ description: "George Nyakundi — Senior iOS Engineer with 10+ years experience.
 
 <div class="about-intro" markdown="1">
 
-I'm **George Nyakundi**, an iOS Engineer with over 5 years of experience building mobile products. Based in the Netherlands, I'm passionate about clean architecture, SDK development, and thoughtful engineering.
+I'm **George Nyakundi**, an iOS Engineer with years of experience building mobile products. Based in the Netherlands, I'm passionate about clean architecture, SDK development, and thoughtful engineering.
 
 Beyond work, I'm a music enthusiast — sound and rhythm help me stay grounded and creative.
 
